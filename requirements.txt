@@ -52,7 +52,7 @@ nvidia-nccl-cu12==2.21.5
 nvidia-nvjitlink-cu12==12.5.40
 oauthlib==3.2.2
 opt-einsum==3.3.0
-optax==0.2.2
+optax==0.1.8
 orbax-checkpoint==0.5.14
 packaging==24.0
 promise==2.3
