@@ -38,7 +38,6 @@ ml-collections==0.1.0
 ml-dtypes==0.4.0
 msgpack==1.0.8
 nest-asyncio==1.6.0
-numpy==1.26.4
 numpy==1.23.5
 nvidia-cublas-cu12==12.5.2.13
 nvidia-cuda-cupti-cu12==12.5.39
