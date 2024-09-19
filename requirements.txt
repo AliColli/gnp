@@ -4,7 +4,7 @@ astunparse==1.6.3
 cachetools==5.3.3
 certifi==2024.2.2
 charset-normalizer==3.3.2
-chex==0.1.85
+chex==0.1.81
 click==8.1.7
 cloudpickle==3.0.0
 contextlib2==21.6.0
